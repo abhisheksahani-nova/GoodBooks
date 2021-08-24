@@ -3,23 +3,30 @@
   text-align: center;
 }
 
+h1 {
+  color: #333333;
+}
+
 p {
   margin-bottom: 2em;
+  font-size: 13px;
+  color: #555555;
 }
 
 .btn {
   width: 8em;
   padding: 0.5em;
   margin-right: 0.5em;
-  border: 1px solid black;
+  border: 1px solid #333333;
   border-radius: 0.5em;
   cursor: pointer;
 }
 
 hr {
-  width: 40%;
+  width: 50%;
   margin-top: 2em;
   margin-bottom: 1em;
+  color: #555555;
 }
 
 outputDiv {

@@ -47,11 +47,13 @@ export default function App() {
             <li
               key={book.name}
               style={{
-                width: "20%",
-                border: "1px solid black",
+                width: "32%",
+                border: "1px solid blue",
                 padding: "1em",
                 margin: "1em auto",
-                listStyleType: "none"
+                listStyleType: "none",
+                textAlign: "left",
+                borderRadius: "0.4em"
               }}
             >
               <div style={{ fontSize: "20px" }}>{book.name}</div>
