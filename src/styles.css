@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 2em;
+}
+
+.btn {
+  width: 8em;
+  padding: 0.5em;
+  margin-right: 0.5em;
+  border: 1px solid black;
+  border-radius: 0.5em;
+  cursor: pointer;
+}
+
+hr {
+  width: 40%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+outputDiv {
+  border: 1px solid black;
+  padding: 1.5em;
+  margin: 1em;
+}
